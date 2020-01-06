@@ -6,7 +6,8 @@ authors = ["Brent Klein <bklein@xometry.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-strawberry = "^0.20.0"
+strawberry-graphql = "^0.20.0"
+flask = "^1.1.1"
 
 [tool.poetry.dev-dependencies]
 
